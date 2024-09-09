@@ -1,0 +1,10 @@
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\bin\Debug\Bilheteria.exe.config
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\bin\Debug\Bilheteria.exe
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\bin\Debug\Bilheteria.pdb
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.Form1.resources
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.Properties.Resources.resources
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.exe
+C:\Users\cesar\source\repos\Bilheteria\Bilheteria\obj\Debug\Bilheteria.pdb
