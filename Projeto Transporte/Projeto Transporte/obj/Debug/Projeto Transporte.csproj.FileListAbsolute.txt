@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.exe.config
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.exe
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\bin\Debug\Projeto Transporte.pdb
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.exe
+C:\Users\cesar\source\repos\Projeto Transporte\Projeto Transporte\obj\Debug\Projeto Transporte.pdb
